@@ -1,0 +1,1 @@
+module.exports = '<div id="domlog">\n</div>\n';
